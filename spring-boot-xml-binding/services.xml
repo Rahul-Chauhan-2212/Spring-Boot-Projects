@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services name="rahul">
+    <service id="url1">
+        <headers>header1</headers>
+        <url>crm</url>
+    </service>
+    <service id="url2">
+        <headers>header2</headers>
+        <url>clos</url>
+    </service>
+</services>

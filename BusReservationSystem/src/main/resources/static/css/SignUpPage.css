@@ -1,0 +1,15 @@
+input {
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 1em;
+}
+
+#register:hover {
+    background-color: springgreen;
+}

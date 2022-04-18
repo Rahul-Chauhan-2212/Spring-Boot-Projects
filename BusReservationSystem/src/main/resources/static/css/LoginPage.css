@@ -1,0 +1,46 @@
+#mainblock {
+    display: flex;
+}
+
+#form,
+#image {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    align-items: centre;
+    height: 500px;
+    width: auto;
+}
+
+#email,
+#password {
+    padding: inherit;
+    margin: 5px 0px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+img {
+    height: 100%;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 1em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#submit
+{
+	background-color :red;
+	border-radius :5px;
+	margin-top : 5px;
+}
+#submit:hover {
+    background-color: springgreen;
+}
