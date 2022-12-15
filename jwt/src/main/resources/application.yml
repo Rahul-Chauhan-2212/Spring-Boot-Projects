@@ -1,0 +1,10 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show-sql: false
+server:
+  port: 9090
+jwt:
+  secret : 0Gphpr6Uomy3t9Dsib1jDYaX0Qd2z4h3eregdhddsfdgr3ewrrgrdgdfbdfbfghrftgedgdbcvnvbgdfdbf
